@@ -1,1 +1,16 @@
+Project
 
+End-to-end CV system (object detection / segmentation)
+Vision + GenAI system (OCR + reasoning / VQA)
+Multimodal search (image ↔ text)
+RAG-based vision assistant
+Optimization project (speed, cost, accuracy)
+Debugging / failure analysis project
+
+Project Outline
+
+Problem definition
+Design decisions
+Trade-offs
+Evaluation
+Deployment
