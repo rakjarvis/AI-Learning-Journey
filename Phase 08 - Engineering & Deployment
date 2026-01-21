@@ -1,1 +1,26 @@
+Data Engineering
 
+Dataset creation
+Annotation
+Class imbalance
+Data drift
+Data versioning
+
+Deployment
+
+FastAPI
+REST APIs
+Docker
+Model versioning
+Streaming inference
+Caching
+GPU vs CPU tradeoffs
+Edge deployment (ONNX, TensorRT)
+
+Monitoring & Evaluation
+
+Latency
+Cost
+Accuracy drift
+LLM faithfulness
+Failure modes
