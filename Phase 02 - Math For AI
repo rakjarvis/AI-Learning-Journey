@@ -1,1 +1,26 @@
+Linear Algebra
 
+Scalars, vectors, matrices
+Dot product
+Matrix multiplication
+Eigenvalues (intuition)
+Why embeddings are vectors
+Why similarity works
+
+Probability & Statistics
+
+Probability basics
+Random variables
+Distributions
+Expectation, variance
+Bayes theorem
+Noise & uncertainty
+Sampling
+
+Calculus (Only What You Need)
+
+Derivatives
+Partial derivatives
+Gradients
+Chain rule
+Gradient descent intuition
