@@ -14,3 +14,11 @@ Design decisions
 Trade-offs
 Evaluation
 Deployment
+
+Questions to Answer
+
+Why this model?
+Why did it fail?
+How would you improve it?
+What happens if data changes?
+How do you deploy this at scale?
