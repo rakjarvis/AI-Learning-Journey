@@ -1,1 +1,23 @@
+RAG (Critical)
 
+Chunking strategies
+Embeddings
+Vector similarity
+Metadata filtering
+Re-ranking
+Grounding
+Citations
+
+Fine-Tuning
+
+When to fine-tune
+LoRA / QLoRA
+Data requirements
+Cost vs benefit
+
+Prompt Engineering (Real)
+
+Structured outputs
+Prompt versioning
+Reliability
+Evaluation
