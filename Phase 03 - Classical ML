@@ -1,1 +1,30 @@
 
+Algorithms
+
+Linear Regression
+Logistic Regression
+KNN
+Naive Bayes
+Decision Trees
+Random Forests
+Gradient Boosting
+SVM
+K-Means
+PCA
+
+Concepts
+
+Bias vs variance
+Overfitting vs underfitting
+Feature engineering
+Feature scaling
+Cross-validation
+Data leakage
+
+Evaluation
+
+Accuracy
+Precision / Recall
+F1 score
+ROC-AUC
+Confusion matrix
