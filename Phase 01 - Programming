@@ -1,1 +1,18 @@
+Python (Deep, Not Superficial)
 
+Data types, mutability
+Control flow
+Functions (pure vs impure)
+OOP (classes, inheritance, composition)
+Error handling
+Debugging (tracebacks, logs)
+Writing clean, readable code
+Virtual environments
+Package management
+
+Core Python for AI
+
+NumPy (arrays, broadcasting, memory layout)
+Pandas (joins, groupby, time series)
+Matplotlib / Seaborn
+Writing reusable utilities
