@@ -15,3 +15,28 @@ Morphology
 Contours
 Feature detectors (SIFT, ORB)
 Optical flow
+
+Deep Learning for Vision
+
+CNN Concepts
+Convolutions
+Padding, stride
+Pooling
+Receptive fields
+
+Architectures
+
+LeNet
+AlexNet
+VGG
+ResNet
+EfficientNet
+MobileNet
+
+Vision Tasks
+
+Image classification
+Object detection (YOLO, SSD, Faster R-CNN)
+Segmentation (U-Net, Mask R-CNN)
+Video analysis
+Tracking
