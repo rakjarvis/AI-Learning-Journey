@@ -1,1 +1,24 @@
+LLM Fundamentals
 
+Tokens
+Tokenization
+Embeddings
+Attention
+Transformers
+Context window limits
+Hallucinations
+
+Vision + Language
+
+Vision Transformers (ViT)
+CLIP (image-text embeddings)
+Image captioning
+Visual Question Answering
+OCR + reasoning
+
+Diffusion Models
+
+Image generation basics
+Stable Diffusion
+ControlNet
+Inpainting
