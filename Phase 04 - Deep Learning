@@ -1,1 +1,14 @@
+Neural Network Fundamentals
 
+Perceptron
+Activation functions
+Loss functions
+Backpropagation (concept + code)
+Weight initialization
+Regularization
+Dropout
+Batch normalization
+
+Framework
+PyTorch
+TensorFlow
