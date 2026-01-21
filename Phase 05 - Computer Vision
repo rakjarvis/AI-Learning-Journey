@@ -1,1 +1,17 @@
+Image Fundamentals
 
+Pixels, channels
+Color spaces
+Normalization
+Histograms
+Noise
+Interpolation
+
+Classical Computer Vision
+
+Edge detection (Sobel, Canny)
+Thresholding
+Morphology
+Contours
+Feature detectors (SIFT, ORB)
+Optical flow
