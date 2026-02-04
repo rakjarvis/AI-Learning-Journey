@@ -1,26 +1,36 @@
-Linear Algebra
+LINEAR ALGEBRA (GEOMETRY OF MODELS)
 
 Scalars, vectors, matrices
-Dot product
-Matrix multiplication
-Eigenvalues (intuition)
-Why embeddings are vectors
-Why similarity works
+Vector spaces & span
+Dot product = projection
+Norms & distance
+Matrix multiplication = composition of transformations
+Rank & information
+Eigenvalues (why directions matter)
+Embeddings as geometry
+Similarity & cosine distance
 
-Probability & Statistics
+PROBABILITY (UNCERTAINTY ENGINE)
 
-Probability basics
+Probability axioms
 Random variables
-Distributions
-Expectation, variance
-Bayes theorem
-Noise & uncertainty
-Sampling
+Distributions (discrete & continuous)
+Expectation & variance
+Joint / marginal / conditional
+Bayes theorem (deep intuition)
+Likelihood vs probability
+Noise & randomness
+Sampling & estimation
+Entropy & cross-entropy
+Bias–variance tradeoff
 
-Calculus (Only What You Need)
+CALCULUS (LEARNING MECHANISM)
 
-Derivatives
+Functions as mappings
+Derivatives = sensitivity
 Partial derivatives
-Gradients
-Chain rule
-Gradient descent intuition
+Gradients = direction of steepest change
+Chain rule (backprop intuition)
+Gradient descent
+Jacobian & Hessian (conceptual)
+Optimization landscapes
