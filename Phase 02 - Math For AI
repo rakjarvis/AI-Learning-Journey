@@ -27,10 +27,18 @@ Bias–variance tradeoff
 CALCULUS (LEARNING MECHANISM)
 
 Functions as mappings
-Derivatives = sensitivity
+Derivatives as sensitivity
 Partial derivatives
-Gradients = direction of steepest change
-Chain rule (backprop intuition)
-Gradient descent
-Jacobian & Hessian (conceptual)
+Gradients
+Chain rule (backpropagation)
+Vector-valued derivatives (Jacobian)
+Second-order derivatives (Hessian)
+Taylor approximation
 Optimization landscapes
+Gradient descent
+Optimization dynamics (momentum, learning rate)
+Calculus of expectations
+Constrained optimization
+Non-smooth calculus (subgradients)
+Stability and failure modes
+Automatic differentiation
