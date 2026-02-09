@@ -1,30 +1,141 @@
+Problem Framing & Data Generating Process
 
-Algorithms
+(Most ML failures happen here)
+Supervised vs unsupervised vs semi-supervised
+IID assumption (and how it breaks)
+Data generating process (DGP)
+Target leakage vs feature leakage
+Train–test distribution shift
+Correlation vs causation (ML perspective)
+When ML should not be used
 
-Linear Regression
-Logistic Regression
-KNN
-Naive Bayes
-Decision Trees
-Random Forests
-Gradient Boosting
-SVM
-K-Means
-PCA
+Linear Models (Geometry + Statistics)
 
-Concepts
+(Not “simple models” — foundational models)
+Linear regression as projection
+Closed-form vs gradient descent solution
+Multicollinearity & conditioning
+Logistic regression as probabilistic model
+Decision boundary geometry
+Odds, log-odds, calibration
+When linear models beat deep models
 
-Bias vs variance
-Overfitting vs underfitting
-Feature engineering
-Feature scaling
-Cross-validation
-Data leakage
+Distance-Based Methods
 
-Evaluation
+(Local learning & curse of dimensionality)
+KNN as non-parametric estimator
+Distance metrics & feature scaling
+Curse of dimensionality (intuition + math)
+Bias–variance in local methods
+When local methods fail catastrophically
 
-Accuracy
-Precision / Recall
-F1 score
-ROC-AUC
-Confusion matrix
+Probabilistic Models
+
+(Uncertainty-aware learning)
+Naive Bayes assumptions & violations
+Maximum Likelihood Estimation (MLE)
+Maximum A Posteriori (MAP)
+Priors as regularization
+Predictive uncertainty
+Aleatoric vs epistemic uncertainty
+
+Tree-Based Models
+
+(The tabular data kings)
+Decision trees as recursive partitioning
+Impurity measures (Gini, entropy)
+Greedy splits & instability
+Random Forests as variance reducers
+Bias–variance tradeoff in ensembles
+Feature importance pitfalls
+Why trees love raw features
+
+Boosting & Additive Models
+
+(This separates average from elite)
+Boosting as functional gradient descent
+Weak learners → strong learners
+Bias reduction vs variance reduction
+Learning rate, depth, and overfitting
+Why Gradient Boosting dominates tabular ML
+When boosting fails
+
+Support Vector Machines
+
+(Margins, geometry, and duality)
+Maximum margin principle
+Hard vs soft margins
+Kernel trick (conceptual, not math-heavy)
+Dual formulation intuition
+When SVMs outperform neural nets
+
+Unsupervised Learning & Representation
+
+(Structure discovery)
+
+K-Means as Voronoi partitioning
+Initialization pathologies
+PCA as variance-preserving projection
+Eigenvalues & explained variance
+PCA vs feature selection
+When unsupervised learning misleads
+
+Optimization for ML
+
+(Training ≠ learning)
+Convex vs non-convex loss surfaces
+Saddle points & flat minima
+Gradient descent variants (GD, SGD, momentum, Adam)
+Feature scaling & conditioning
+Early stopping as regularization
+
+Regularization & Generalization
+
+(Why models generalize)
+Bias–variance tradeoff (deep view)
+L1 vs L2 (geometry + sparsity)
+Regularization as Bayesian prior
+Data augmentation as regularization
+Double descent phenomenon
+Why over-parameterized models work
+
+Model Evaluation & Decision Theory
+
+(Metrics lie — learn how)
+Confusion matrix as joint distribution
+Precision–Recall vs ROC-AUC
+Threshold selection
+Class imbalance strategies
+Calibration & reliability
+Cost-sensitive evaluation
+Confidence intervals for metrics
+
+Feature Engineering & Pipelines
+
+(Models don’t win — features do)
+Feature scaling & normalization
+Encoding categorical variables
+Interaction features
+Feature leakage detection
+Pipelines & reproducibility
+Data preprocessing traps
+
+Failure Analysis & Debugging
+
+(The real top-5% separator)
+Error slicing
+Bias vs variance diagnosis
+Data quality vs model capacity
+Label noise detection
+Train–test skew diagnosis
+Sanity checks for ML systems
+
+Classical ML vs Deep Learning
+
+(Strategic thinking)
+When classical ML is superior
+Sample efficiency comparison
+Interpretability tradeoffs
+Compute vs data tradeoffs
+
+Why tabular data favors classical ML
