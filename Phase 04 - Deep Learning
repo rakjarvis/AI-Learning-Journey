@@ -1,15 +1,67 @@
-Neural Network Fundamentals
+Neural Network Theory (What most people skip)
 
-Perceptron
-Activation functions
-Loss functions
-Backpropagation (concept + code)
-Weight initialization
-Regularization
-Dropout
-Batch normalization
+Universal Approximation Theorem (intuition + limits)
+Expressivity & depth vs width trade-offs
+Optimization landscapes (saddles > local minima)
+Implicit bias of gradient descent
+Neural Tangent Kernel (high-level intuition)
+Double descent phenomenon
 
-Framework
+Training Dynamics (Elite-level understanding)
 
-PyTorch
-TensorFlow
+Vanishing & exploding gradients (formal view)
+Learning rate schedules (cosine, warmup, cyclic)
+Optimizers beyond SGD (Momentum, Adam, AdamW — why they differ)
+Sharp vs flat minima
+Gradient noise & generalization
+Loss surface geometry
+Architecture-Level Fundamentals
+
+Fully Connected vs Convolutional vs Recurrent inductive bias
+Residual connections (why ResNets work)
+Skip connections as information highways
+Normalization layers comparison (BatchNorm vs LayerNorm vs RMSNorm)
+Parameter sharing & symmetry breaking
+
+Sequence & Representation Basics (Pre-Transformer)
+
+Recurrent Neural Networks (failure modes)
+LSTM / GRU (gating intuition)
+Teacher forcing
+Sequence-to-sequence learning
+Representation Learning (Core AI Skill)
+
+Embeddings as learned geometry
+Metric learning
+Contrastive learning basics
+Autoencoders (vanilla, denoising)
+Latent space structure
+
+Probabilistic Deep Learning
+
+Maximum Likelihood vs MAP in deep nets
+Bayesian neural networks (conceptual)
+Uncertainty estimation (aleatoric vs epistemic)
+Calibration of neural networks
+
+Practical Mastery (What separates top 5%)
+
+Debugging neural networks systematically
+Gradient checking
+Loss curve diagnostics
+Training instability patterns
+Reproducibility & randomness control
+Modern Foundations (Required today)
+
+Attention mechanism (from scratch intuition)
+Transformers (encoder / decoder)
+Positional encoding
+Pretraining vs finetuning
+Transfer learning dynamics
+
+Systems & Scaling Awareness
+
+Mixed precision training
+GPU memory model basics
+Data pipelines & bottlenecks
+Distributed training (conceptual)
