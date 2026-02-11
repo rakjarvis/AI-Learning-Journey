@@ -1,15 +1,23 @@
 LINEAR ALGEBRA (GEOMETRY OF MODELS)
 
-Scalars, vectors, matrices
-Vector spaces & span
-Dot product = projection
-Norms & distance
-Matrix multiplication = composition of transformations
-Rank & information
-Eigenvalues (why directions matter)
-Embeddings as geometry
-Similarity & cosine distance
-
+Foundations of Linear Algebra (Scalars, Vectors, Matrices, Tensors)
+Vector Spaces, Subspaces, Basis & Dimension
+Geometry of Vectors (Dot Product, Norms, Angles, Similarity)
+Linear Transformations & Matrix Representations
+Rank, Information & Model Capacity
+Systems of Linear Equations & Fundamental Subspaces
+Projections, Orthogonality & Least Squares
+Eigenvalues, Eigenvectors & Invariant Directions
+Matrix Decompositions (Eigen Decomposition & SVD)
+Principal Component Analysis as Linear Algebra
+Positive Definite Matrices & Quadratic Forms
+Numerical Linear Algebra & Stability
+High-Dimensional Geometry
+Embeddings as Geometry
+Linear Algebra Behind Optimization
+Linear Algebra in Neural Networks
+Probabilistic Linear Algebra (Covariance & Whitening)
+Unifying Geometric Mental Models for AI
 PROBABILITY (UNCERTAINTY ENGINE)
 
 Probability axioms
