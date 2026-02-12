@@ -1,24 +1,34 @@
-Project
+Projects
 
-End-to-end CV system (object detection / segmentation)
-Vision + GenAI system (OCR + reasoning / VQA)
-Multimodal search (image ↔ text)
-RAG-based vision assistant
-Optimization project (speed, cost, accuracy)
-Debugging / failure analysis project
+End-to-End Computer Vision System
+Vision + GenAI Reasoning System
+Multimodal Search System (Image ↔ Text)
+RAG-Based Multimodal Assistant
+Optimization & Efficiency Project (Speed / Cost / Quality)
+Debugging & Failure Analysis Case Study Project
+Data-Centric ML Project (Dataset Creation / Drift / Monitoring)
+Production Deployment Project (Serving / Observability / Rollbacks)
+Evaluation Harness Project (Offline + Online + Regression Tests)
 
-Project Outline
+Project Documentation Framework
 
-Problem definition
-Design decisions
-Trade-offs
-Evaluation
-Deployment
+Problem Definition
+Data & Assumptions
+System Design & Architecture
+Design Decisions & Trade-offs
+Training / Inference Pipeline
+Evaluation Plan & Metrics
+Deployment Plan
+Monitoring & Drift Strategy
+Failure Analysis & Iteration Plan
 
-Questions to Answer
+Questions Every Project Must Answer
 
-Why this model?
-Why did it fail?
-How would you improve it?
-What happens if data changes?
-How do you deploy this at scale?
+Why this model and not simpler alternatives?
+What assumptions are you making (and how can they break)?
+Where does it fail, and why?
+How do you know it’s working (and staying working)?
+What happens under distribution shift / data drift?
+What are latency, cost, and reliability trade-offs?
+How would you improve it with the next 2 weeks of work?
+How would you deploy and operate it at scale safely?
