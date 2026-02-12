@@ -1,42 +1,17 @@
-Image Fundamentals
+Computer Vision
 
-Pixels, channels
-Color spaces
-Normalization
-Histograms
-Noise
-Interpolation
-
+Image Formation & Visual Geometry
+Image Representation & Preprocessing
 Classical Computer Vision
-
-Edge detection (Sobel, Canny)
-Thresholding
-Morphology
-Contours
-Feature detectors (SIFT, ORB)
-Optical flow
-
-Deep Learning for Vision
-
-CNN Concepts
-Convolutions
-Padding, stride
-Pooling
-Receptive fields
-
-Architectures
-
-LeNet
-AlexNet
-VGG
-ResNet
-EfficientNet
-MobileNet
-
-Vision Tasks
-
-Image classification
-Object detection (YOLO, SSD, Faster R-CNN)
-Segmentation (U-Net, Mask R-CNN)
-Video analysis
-Tracking
+Convolutional Neural Networks (Vision Inductive Bias)
+Receptive Fields & Hierarchical Feature Learning
+Vision Architectures & Design Evolution
+Object Recognition & Classification
+Detection, Segmentation & Dense Prediction
+Video, Motion & Temporal Vision
+Self-Supervised & Representation Learning for Vision
+Vision Transformers & Hybrid Models
+Multiscale & Invariance Principles
+Robustness, Bias & Failure Modes in Vision
+Evaluation, Datasets & Benchmark Pitfalls
+Vision Systems & Deployment Constraints
