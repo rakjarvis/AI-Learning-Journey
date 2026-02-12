@@ -1,24 +1,19 @@
-LLM Fundamentals
+Gen AI & Multimodal
 
-Tokens
-Tokenization
-Embeddings
-Attention
-Transformers
-Context window limits
-Hallucinations
-
-Vision + Language
-
-Vision Transformers (ViT)
-CLIP (image-text embeddings)
-Image captioning
-Visual Question Answering
-OCR + reasoning
-
-Diffusion Models
-
-Image generation basics
-Stable Diffusion
-ControlNet
-Inpainting
+Foundations of Generative Modeling
+Large Language Model Fundamentals
+Tokenization & Representation Learning
+Attention & Transformer Mechanics
+Context, Memory & Scaling Limits
+Training Paradigms for LLMs
+Inference, Decoding & Hallucination Dynamics
+Alignment, Safety & Failure Modes
+Vision–Language Representation Learning
+Multimodal Fusion & Cross-Modal Attention
+Vision Transformers & Foundation Models
+Contrastive Learning & Joint Embedding Spaces
+Diffusion Models & Score-Based Generative Modeling
+Conditioning, Control & Guidance in Generation
+Multimodal Reasoning & Grounding
+Evaluation of Generative & Multimodal Models
+Data, Bias & Dataset Pathologies
