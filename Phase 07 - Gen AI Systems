@@ -1,23 +1,16 @@
-RAG (Critical)
+Generative AI Systems & Deployment
 
-Chunking strategies
-Embeddings
-Vector similarity
-Metadata filtering
-Re-ranking
-Grounding
-Citations
-
-Fine-Tuning
-
-When to fine-tune
-LoRA / QLoRA
-Data requirements
-Cost vs benefit
-
-Prompt Engineering (Real)
-
-Structured outputs
-Prompt versioning
-Reliability
-Evaluation
+Retrieval-Augmented Generation (RAG) Systems
+Representation, Chunking & Indexing Strategies
+Vector Search, Similarity & Re-Ranking
+Grounding, Attribution & Citation Integrity
+Fine-Tuning Strategies & Adaptation Methods
+Parameter-Efficient Fine-Tuning (PEFT)
+Prompt Engineering as System Design
+Reliability, Evaluation & Prompt Versioning
+Hybrid Systems (RAG + Fine-Tuning)
+Data Quality, Governance & Drift
+Latency, Cost & Scalability Tradeoffs
+Evaluation of LLM Systems (Offline & Online)
+Failure Modes & Safety in GenAI Systems
+Production Monitoring & Feedback Loops
