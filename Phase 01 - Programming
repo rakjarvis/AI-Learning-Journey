@@ -1,18 +1,66 @@
-Python (Deep, Not Superficial)
+A. Python Fundamentals (Deep, Internalized)
+Objects, names, references (what variables really are)
+Mutability & aliasing bugs
+Control flow (quick mastery)
+Functions: pure vs impure, side effects
+Closures, decorators (conceptual, not tricks)
+Error handling philosophy (fail fast vs fail safe)
 
-Data types, mutability
-Control flow
-Functions (pure vs impure)
-OOP (classes, inheritance, composition)
-Error handling
-Debugging (tracebacks, logs)
-Writing clean, readable code
-Virtual environments
-Package management
+B. Python Execution Model (Top-5% Separator)
+CPython interpreter & bytecode (conceptual)
+Stack vs heap
+Reference counting & garbage collection
+GIL: impact on CPU-bound vs IO-bound tasks
+Why Python feels slow (and when it doesn’t)
 
-Core Python for AI
+C. Writing High-Quality Python Code
+Readability vs cleverness
+Functional vs OOP vs composition
+Data classes & immutability
+Designing clean APIs
+Configuration management
+Logging, not printing
+Debugging deeply (tracebacks, stepping, inspection)
 
-NumPy (arrays, broadcasting, memory layout)
-Pandas (joins, groupby, time series)
-Matplotlib / Seaborn
+D. Scientific Python Core
+NumPy (Deep)
+Array model & memory layout
+Broadcasting (real intuition)
+Views vs copies
+Vectorization limits
+Numerical stability
+Pandas (Practical Mastery)
+Indexing mental model
+Groupby internals (split–apply–combine)
+Joins & time series pitfalls
+When Pandas breaks (and what to use instead)
+
+E. Performance & Profiling
+Time complexity in Python reality
+Profiling CPU & memory
+Vectorization vs loops tradeoffs
+Caching & memoization
+When to move to NumPy / C / GPU
+
+F. Testing & Reliability (Highly Underrated)
+Unit testing for data code
+Assertions & invariants
+Detecting silent data corruption
+Reproducibility (random seeds, determinism)
+
+G. Environment & Dependency Management
+Virtual environments (why, not how)
+Dependency pinning
+Reproducible environments
+Version conflicts & mitigation strategies
+
+H. Visualization (Enough, Not Excess)
+Matplotlib fundamentals
+Seaborn for quick insight
+Plotting as debugging, not presentation
+
+I. Reusable Code & Libraries
 Writing reusable utilities
+Packaging Python code
+Designing reusable ML components
+Code organization for growing projects
