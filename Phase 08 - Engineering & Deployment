@@ -1,26 +1,17 @@
-Data Engineering
+Engineering & Deployment
 
-Dataset creation
-Annotation
-Class imbalance
-Data drift
-Data versioning
-
-Deployment
-
-FastAPI
-REST APIs
-Docker
-Model versioning
-Streaming inference
-Caching
-GPU vs CPU tradeoffs
-Edge deployment (ONNX, TensorRT)
-
-Monitoring & Evaluation
-
-Latency
-Cost
-Accuracy drift
-LLM faithfulness
-Failure modes
+Data Engineering & Dataset Lifecycle
+Data Quality, Bias & Drift Management
+Data Versioning & Lineage
+Model Serving & API Design
+Containerization & Environment Reproducibility
+Model Versioning & Release Management
+Inference Architectures (Batch, Streaming, Online)
+Latency, Throughput & Caching Strategies
+Hardware Tradeoffs (CPU, GPU, Edge)
+Model Optimization & Acceleration
+Edge & On-Device Deployment
+Monitoring, Observability & Telemetry
+Performance, Cost & Reliability Tradeoffs
+Accuracy, Drift & Degradation Detection
+Failure Modes, Rollbacks & Incident Response
